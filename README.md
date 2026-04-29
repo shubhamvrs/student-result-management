@@ -23,7 +23,7 @@ It combines a clean, single-page web UI with a lightweight API so schools or coa
 ## How users can get started
 
 ### Prerequisites
-- Node.js 16+ (LTS recommended)
+- Node.js 18+ (LTS recommended)
 - MongoDB (local or hosted)
 
 ### Installation
