@@ -36,7 +36,7 @@ npm install
 Create a `.env` file in the project root:
 ```env
 MONGO_URI=mongodb://localhost:27017/student-results
-JWT_SECRET=replace-with-a-secure-random-string
+JWT_SECRET=CHANGE_ME_USE_A_SECURE_RANDOM_SECRET
 PORT=5000
 ```
 
