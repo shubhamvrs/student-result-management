@@ -28,7 +28,7 @@ It combines a clean, single-page web UI with a lightweight API so schools or coa
 
 ### Installation
 ```bash
-cd student-result-management
+cd <project-directory>
 npm install
 ```
 
