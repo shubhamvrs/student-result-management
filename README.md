@@ -23,7 +23,7 @@ It combines a clean, single-page web UI with a lightweight API so schools or coa
 ## How users can get started
 
 ### Prerequisites
-- Node.js (LTS recommended)
+- Node.js 16+ (LTS recommended)
 - MongoDB (local or hosted)
 
 ### Installation
@@ -36,7 +36,7 @@ npm install
 Create a `.env` file in the project root:
 ```env
 MONGO_URI=mongodb://localhost:27017/student-results
-JWT_SECRET=replace-with-a-strong-secret
+JWT_SECRET=use-a-strong-secret-at-least-32-characters
 PORT=5000
 ```
 
